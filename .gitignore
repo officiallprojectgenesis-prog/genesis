@@ -1,5 +1,0 @@
-compiler/bin
-compiler/obj
-compiler/[[]output[]]
-compiler/js-obfuscator/node_modules
-MTA-Cube-Renderer-main
